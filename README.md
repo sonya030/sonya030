@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     </div>
 <div align="center">
     <a href="https://hits.seeyoufarm.com" align= "center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D2EFFF&title_bg=%2356C0E7&icon=aerlingus.svg&icon_color=%23005FAC&title=hits&edge_flat=false"/></a>
-    <h2>Hi, there🙋🏻‍♀️</h2>
+    ##Hi, there🙋🏻‍♀️
 </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎇Introduce myself </h2>  
