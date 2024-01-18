@@ -16,11 +16,11 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90c0fe,100:487ffe&height=240&text=Hellooo,%20I'm%20sonya%20:)&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎇Introduce myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎇Introduce myself </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -35,14 +35,15 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩🏻‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:sondabin5693@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sondabin5693@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sonya030&bg_color=60,ffffff,bfbfbf&title_color=404040&text_color=404040"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonya030&layout=compact&bg_color=60,ffffff,bfbfbf&title_color=404040&text_color=404040"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sonya030&bg_color=60,ffffff,d2e5fe&title_color=404040&text_color=404040"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonya030&layout=compact&bg_color=60,ffffff,d2e5fe&title_color=404040&text_color=404040"
           /> </div> 
     </div>
+    
     
