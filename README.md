@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90c0fe,100:487ffe&height=240&text=Hi,there🎈%20I'm%20sonya%20:)&animation=twinkling&fontColor=ffffff&fontSize=60" />
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi, there❣ </h2>  
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90c0fe,100:487ffe&height=240&text=Hellooo,%20I'm%20sonya%20:)&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
+
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎇Introduce myself </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL </div> 
