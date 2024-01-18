@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="https://hits.seeyoufarm.com" align= "center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D2EFFF&title_bg=%2356C0E7&icon=aerlingus.svg&icon_color=%23005FAC&title=hits&edge_flat=false"/></a>
     <br><br>
-    <p style="font-weight: 700; font-size: 20px;">Hi, there🙋🏻‍♀️</p>
+    <p style="font-weight: 700; font-size: 30px;">Hi, there🙋🏻‍♀️</p>
 </div>
 <br><br><br><br>
     <div style="text-align: left;"> 
@@ -39,6 +39,8 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/swiper-%236332F6?style=flat&logo=swiper&logoColor=white">
+
           </div>
     </div><br><br>
     <div style="text-align: left;">
