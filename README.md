@@ -21,10 +21,11 @@ Here are some ideas to get you started:
     <br><br>
     <p style="font-weight: 700; font-size: 20px;">Hi, there🙋🏻‍♀️</p>
 </div>
+<br><br><br><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎇Introduce myself </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL </div> 
-    </div>
+    </div><br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
           </div>
-    </div>
+    </div><br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📧 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:sondabin5693@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sondabin5693@gmail.com"> </a>
