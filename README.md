@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90c0fe,100:487ffe&height=240&text=Hi,there🎈%20I'm%20sonya%20:)&animation=twinkling&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi, there❣ </h2>  
     </div>
     <div style="text-align: left;"> 
