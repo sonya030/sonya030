@@ -40,10 +40,10 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/swiper-%236332F6?style=flat&logo=swiper&logoColor=white">
-
           </div>
     </div><br><br>
-    <div style="text-align: left;">
+    
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📧 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:sondabin5693@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sondabin5693@gmail.com"> </a>
           </div>  <br> 
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sonya030&bg_color=60,ffffff,d2e5fe&title_color=404040&text_color=404040"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonya030&layout=compact&bg_color=60,ffffff,d2e5fe&title_color=404040&text_color=404040"
           /> </div> 
-    </div>
+</div>
     
     
