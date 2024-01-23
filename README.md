@@ -50,9 +50,9 @@ Here are some ideas to get you started:
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sonya030&bg_color=60,ffffff,d2e5fe&title_color=404040&text_color=404040"
+    <!--<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sonya030&bg_color=60,ffffff,d2e5fe&title_color=404040&text_color=404040"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonya030&layout=compact&bg_color=60,ffffff,d2e5fe&title_color=404040&text_color=404040"
-          /> </div> 
+          /> </div> -->
 </div>
     
     
