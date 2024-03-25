@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br><br><br><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎇Introduce myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL </div> 
     </div><br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Tech Stacks </h2> <br> 
