@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br><br><br><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎇Introduce myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL</li> <li>안녕하세요😊 손다빈입니다! </li><li>저의 공간에 와주셔서 감사합니다🙇🏻‍♀️ </li><li>저는 시각·편집디자이너에서 <b>프론트엔드개발자</b>가 된 햇병아리🐤 개발자입니다</li><li>아직 부족한 점이 많지만 끊임없이 발전하는 개발자가 되고싶습니다 😍</li></div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>Hello and welcome to my space🍀</li><li>I'm a frontend developer.</li><li>I'm just starting out and have a lot to work on, but I'm going to do my best today LOL</li> <li>안녕하세요😊 손다빈입니다! </li><li>저의 공간에 와주셔서 감사합니다🙇🏻‍♀️ </li><li>저는 시각디자이너에서 <b>프론트엔드개발자</b>가 된 햇병아리🐤 개발자입니다</li><li>아직 부족한 점이 많지만 끊임없이 발전해 회사에 실질적인 도움이 되는 개발자가 되고싶습니다 😍</li></div> 
     </div><br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Tech Stacks </h2> <br> 
